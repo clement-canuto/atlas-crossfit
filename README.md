@@ -4,7 +4,7 @@
 
 I started this logo with en pencil sketch :
 
-<img src="./crossfit_sketch.jpg" alt="sketch" style="zoom:33%;" />
+<img src="./crossfit_sketch.jpg" alt="sketch" style="zoom: 25%;" />
 
 ## Vector Version
 
